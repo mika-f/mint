@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "jsonabc": "^2.3.1"
+  },
+  "name": "mint",
+  "version": "1.0.0",
+  "description": "mika-f's minimal scripts",
+  "main": "index.js",
+  "repository": "https://github.com/mika-f/mint",
+  "author": "Fuyuno Mikazuki",
+  "license": "MIT",
+  "private": true
+}
